@@ -1,4 +1,5 @@
-Neural Networks repo contain variety examples of neural networks and their optimisation.
+### Neural Networks
+Variety examples of neural networks and their optimisation.
 - LSTM tunning Dropout MaxPooling
 - Neural Network in compare to classic ML.
 - NeuralNetwork Simple
