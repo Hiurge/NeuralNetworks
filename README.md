@@ -6,3 +6,5 @@ Neural Networks repo contain variety examples of neural networks and their optim
 - Slowly but surely i will add more on different architectures and their tunning (CNNs, LSTMs, RNNs, Transfer, GANs, maybe Boltzman Machines)
 
 This repository is in progress and I aim to add more neural networks in future, make more structure and resources material from common parts (templates, tooklit).
+
+Libraries in use: mostly Keras, some sklearn, numpy, TensorFlow.
